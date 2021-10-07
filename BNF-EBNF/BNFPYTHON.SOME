@@ -1,0 +1,29 @@
+BNF Funcitons in Python
+
+<function> ::= def <identifier> (<arguments>) : <nl><code block>
+
+<arguments> ::= | <identifier> | <identifier>, <arguments>
+
+<code block> ::= <identation><expression> |
+                 <identation><expression><code block>
+
+<identation> ::= \t
+
+
+
+def multiply(a, b, c):
+    a + a
+    b + b
+    c + c
+    pass
+
+
+EBNF Functions in Python
+
+FUNCTIONS ::= def IDENTIFIER '(' [ARGUMENTS] ')' ':' NL CODE_BLOCK
+
+ARGUMENTS ::= IDENTIFIER [ {, IDENTIFIER  } ]
+
+CODE_BLOCK ::= { INDENTATION EXPRESSION }
+
+INDENTATION ::= '\t'

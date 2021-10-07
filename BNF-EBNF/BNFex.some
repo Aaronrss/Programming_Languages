@@ -1,0 +1,28 @@
+// CREATE THE BNF FOR AN ARITHMETIC EXPRESSION:
+    //ALLOW OPERATORS +,-,* and /
+    //ALLOW THE USE OF PATENTHESES
+    //AN EXPRESSION CAN HAVE ANY NUMBER OF OPERATORS
+    //OPERANDS CAN BE NUMBERS OR VARIABLES
+
+
+<expression> ::= <expression> + <expression> |
+                 <expression> - <expression> | 
+                 <expression> * <expression> |
+                 <expression> / <expression> |
+                 ( <expression> ) |
+                 <value>
+
+<value> ::= <constant> | <variable>
+
+<constant> ::= <number>
+
+<variable> ::= <identifier>
+
+
+
+sum ::= sum + sum | <vaule>
+
+5
+8 + 4
+9 + 4 + 2 
+a / ( 5 - 9 ) * z

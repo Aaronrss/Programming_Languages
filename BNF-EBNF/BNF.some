@@ -1,0 +1,41 @@
+// BNF notation for English grammar
+
+<sentence> :: = <subject> <predicate>
+
+<subject> ::= <article> <noun> | <article> <adjective> <noun>
+
+<predicate> ::= <verb> | <verb> <adverb> | <verb> <direct> <object>
+
+<direct object> ::= <subject>
+
+<article> := the | a
+
+<noun> ::= house | boy | laptop | pizza
+
+<verb> ::= runs | eats | stinks
+
+<adjective> ::= tall | big | tired
+
+<adverb> ::= loudly | fast
+
+================= EXAMPLE ===================
+the house stinks
+
+<sentence>
+
+<subject> <predicate>
+
+<article> <noun> <predicate>
+
+the <noun> <predicate>
+
+the house <predicate>
+
+the house <verb>
+
+the house stinks
+
+
+the big boy eats a pizza 
+
+the eats boy 

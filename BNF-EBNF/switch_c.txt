@@ -1,0 +1,39 @@
+BNF:
+<switch> ::= switch ( <variable> ) { <general-cases> }
+<general-cases> ::= <cases> | <cases><default>
+<cases> ::= <case> | <case><cases> 
+<case> ::= <header> <code> break;
+<header> ::= <head> | <head><header>
+<head> ::= case <value>:
+<default> ::= default: <code>
+
+
+EBNF:
+SWITCH ::= switch '(' VARIABLE ')' '{' {CASE} [DEFAULT] '}'
+CASE ::= {HEAD} CODE break;
+HEAD ::= case VALUE:
+DEFAULT ::= default: CODE
+
+
+
+
+
+
+
+
+
+
+switch(grade)
+{
+    case A:
+        printf("Congratulations!");
+        break;
+    case B: case C:
+        printf("Good");
+        break;
+    .
+    .
+    .
+    default:
+        printf("Unknown");
+}

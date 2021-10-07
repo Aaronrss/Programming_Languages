@@ -1,0 +1,58 @@
+1.- THE do-while STATEMENT IN C
+
+    // The do-while loop executes a block of code while a boolean expression
+    // evaluates to true. It checks the boolean expression after each iteration.
+    // It terminates as soon as th expression evaluates to false.
+
+BNF:
+    <do-while> ::= do { <executed-code> } while( <bool-expression> );
+    <bool-expression> ::=
+EBNF:
+    DO-WHILE ::= do '{' EXECUTED-CODE '}' WHILE'(' BOOL-EXPRESSION ')';
+    BOOL-EXPRESSION ::=
+
+2.- The conditional in Python (if/elif/else)
+
+BNF:
+
+    <if> ::= if <boolean-expr> : <nl> <code-block>
+            | if <boolean-expr> : <nl> <code-block> <elif>
+            | if <boolean-expr> : <nl> <code-block> <elif> else : <code-block>
+            | if <boolean-expr> : <nl> <code-block> else : <code-block>
+
+    <elif> ::= elif <boolean-expr> : <nl> <code-block>
+             | elif <boolean-expr> : <nl> <code-block> <elif>
+
+    <boolean-expr> ::=
+
+    <code-block> ::= <identation> <expression>
+                   | <identation> <expression> <code-block>
+
+    <identation> ::= \t
+
+EBNF:
+
+    IF ::= if BOOLEAN-EXPR ':' NL CODE_BLOCK { elif }
+                        ( [elif else ':' CODE_BLOCK] | [else ':' CODE_BLOCK] )
+
+    BOOLEAN-EXPR ::=
+
+    CODE_BLOCK ::= { INDENTATION EXPRESSION }
+
+    INDENTATION ::= '\t'
+
+3.- The cond statement in Racket
+
+BNF:
+
+    <cond> ::= (cond <cond-clause> | <cond-clause> <cond-clause> )
+            
+    <cond-clause> ::= [ ( <test-expr> ) then-body ]
+                    | [ ( <test-expr> ) => proc-expr ]
+                    | [ ( <test-expr> ) ] 
+                    | [ else then-body ]
+
+EBNF:
+    COND ::= '('cond {COND-CLAUSE} ')'
+    COND-CLAUSE ::= '[' '(' TEST-EXPR ')'
+                       ( [THEN-BODY] ['=>' PROC-EXPR ] [else THEN-BODY ] ) ']'

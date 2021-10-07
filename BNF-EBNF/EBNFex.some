@@ -1,0 +1,33 @@
+<expression> ::= <expression> + <term> |
+                 <expression> - <term> |
+                 <term>
+
+<term> ::= <term> * <factor> |
+           <term> / <factos> |
+           <factor>
+
+<factor> ::= (<expression>) |
+             <value>
+
+
+EBNF
+
+EXPRESSION ::= EXPRESSION '+' EXPRESSION |
+               EXPRESSION '-' EXPRESSION |
+               EXPRESSION '*' EXPRESSION |
+               EXPRESSION '/' EXPRESSION |
+               '(' EXPRESSION ')' |
+               value
+
+
+EXPRESSION ::= EXPRESSION '+' TERM |
+               EXPRESSION '-' TERM |
+               TERM
+
+
+EXPRESSION ::= TERM [ { ( '+' | '-' ) } ]
+
+TERM ::= FACTOR [ { ( '*' | '/' ) FACTOR } ]
+
+FACTOR ::= '(' EXPRESSION ')' | VARIABLE | constant
+
