@@ -1,0 +1,3 @@
+This is the text that will go inside the file
+Consisting of multiple lines
+To test how the different functions work

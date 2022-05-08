@@ -1,0 +1,133 @@
+,ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+
+0,1,Inception,2010,13+,8.8,87%,1,0,0,0
+1,2,The Matrix,1999,18+,8.7,87%,1,0,0,0
+2,3,Avengers: Infinity War,2018,13+,8.5,84%,1,0,0,0
+3,4,Back to the Future,1985,7+,8.5,96%,1,0,0,0
+4,5,"The Good; the Bad and the Ugly",1966,18+,8.8,97%,1,0,1,0
+5,6,Spider-Man: Into the Spider-Verse,2018,7+,8.4,97%,1,0,0,0
+6,7,The Pianist,2002,18+,8.5,95%,1,0,1,0
+7,8,Django Unchained,2012,18+,8.4,87%,1,0,0,0
+8,9,Raiders of the Lost Ark,1981,7+,8.4,95%,1,0,0,0
+9,10,Inglourious Basterds,2009,18+,8.3,89%,1,0,0,0
+10,11,Taxi Driver,1976,18+,8.3,95%,1,0,0,0
+11,12,3 Idiots,2009,13+,8.4,100%,1,0,1,0
+12,13,Pan's Labyrinth,2006,18+,8.2,95%,1,0,0,0
+13,14,Room,2015,18+,8.1,93%,1,0,0,0
+14,15,Monty Python and the Holy Grail,1975,7+,8.2,97%,1,0,0,0
+15,16,Once Upon a Time in the West,1968,13+,8.5,95%,1,0,1,0
+16,17,Indiana Jones and the Last Crusade,1989,13+,8.2,88%,1,0,0,0
+17,18,Groundhog Day,1993,7+,8,96%,1,0,0,0
+18,19,The King's Speech,2010,18+,8,95%,1,0,0,0
+19,20,Her,2013,18+,8,95%,1,0,0,0
+20,21,There Will Be Blood,2007,18+,8.2,91%,1,0,0,0
+21,22,The Social Network,2010,13+,7.7,96%,1,0,0,0
+22,23,Dallas Buyers Club,2013,18+,8,93%,1,0,0,0
+23,24,The Perks of Being a Wallflower,2012,13+,8,86%,1,0,0,0
+24,25,Life of Brian,1979,18+,8.1,95%,1,0,0,0
+25,26,Ex Machina,2015,18+,7.7,92%,1,0,0,0
+26,27,Silver Linings Playbook,2012,18+,7.7,92%,1,0,0,0
+27,28,District 9,2009,18+,7.9,90%,1,0,0,0
+28,29,The Irishman,2019,18+,7.9,96%,1,0,0,0
+29,30,Moon,2009,18+,7.9,90%,1,0,0,0
+30,31,Marriage Story,2019,18+,8,95%,1,0,0,0
+31,32,Drive,2011,18+,7.8,92%,1,0,1,0
+32,33,Train to Busan,2016,,7.5,94%,1,0,1,0
+33,34,Incredibles 2,2018,7+,7.6,94%,1,0,0,0
+34,35,Dangal,2016,7+,8.4,88%,1,0,0,0
+35,36,Klaus,2019,7+,8.2,94%,1,0,0,0
+36,37,Minority Report,2002,13+,7.6,90%,1,0,0,0
+37,38,Mystic River,2003,18+,7.9,88%,1,0,0,0
+38,39,Like Stars on Earth,2007,7+,8.4,91%,1,0,0,0
+39,40,Ferris Bueller's Day Off,1986,13+,7.8,80%,1,0,0,0
+40,41,Despicable Me,2010,7+,7.6,81%,1,0,0,0
+41,42,Hell or High Water,2016,18+,7.6,97%,1,0,0,0
+42,43,Sin City,2005,18+,8,77%,1,0,0,0
+43,44,Ip Man,2008,18+,8,85%,1,0,0,0
+44,45,Indiana Jones and the Temple of Doom,1984,7+,7.6,85%,1,0,0,0
+45,46,The Theory of Everything,2014,13+,7.7,79%,1,0,0,0
+46,47,The Pursuit of Happyness,2006,13+,8,67%,1,0,0,0
+47,48,Senna,2010,13+,8.5,93%,1,0,0,0
+48,49,Scott Pilgrim vs. the World,2010,13+,7.5,81%,1,0,0,0
+49,50,Magnolia,1999,18+,8,83%,1,0,0,0
+50,51,The Hateful Eight,2015,18+,7.8,75%,1,0,0,0
+51,52,The Artist,2011,13+,7.9,95%,1,0,0,0
+52,53,Moonlight,2016,18+,7.4,98%,1,0,0,0
+53,54,Back to the Future Part II,1989,7+,7.8,65%,1,0,0,0
+54,55,Willy Wonka & the Chocolate Factory,1971,all,7.8,91%,1,0,0,0
+55,56,What's Eating Gilbert Grape,1993,13+,7.8,90%,1,0,1,0
+56,57,The Curious Case of Benjamin Button,2008,13+,7.8,71%,1,0,0,0
+57,58,A Silent Voice,2016,,8.2,94%,1,0,0,0
+58,59,Snowpiercer,2013,18+,7.1,94%,1,0,0,0
+59,60,Hugo,2011,7+,7.5,93%,1,0,0,0
+60,61,Ant-Man and the Wasp,2018,13+,7.1,88%,1,0,0,0
+61,62,As Good as It Gets,1997,13+,7.7,85%,1,0,0,0
+62,63,Back to the Future Part III,1990,7+,7.4,80%,1,0,0,0
+63,64,Searching for Sugar Man,2012,13+,8.2,95%,1,0,0,0
+64,65,Road to Perdition,2002,18+,7.7,81%,1,0,0,0
+65,66,To All the Boys I've Loved Before,2020,13+,7.2,97%,1,0,0,0
+66,67,Molly's Game,2017,18+,7.4,82%,1,0,0,0
+67,68,Blackfish,2013,13+,8.1,98%,1,1,0,0
+68,69,El Camino: A Breaking Bad Movie,2019,18+,7.4,91%,1,0,0,0
+69,70,The Invisible Guest,2016,18+,8.1,67%,1,0,0,0
+70,71,Song of the Sea,2014,7+,8.1,99%,1,0,0,0
+71,72,End of Watch,2012,18+,7.6,85%,1,0,0,0
+72,73,The Evil Dead,1981,18+,7.5,95%,1,0,0,0
+73,74,About Time,2013,18+,7.8,68%,1,0,0,0
+74,75,Kung Fu Hustle,2004,18+,7.7,90%,1,0,0,0
+75,76,Blue Is the Warmest Color,2013,18+,7.7,89%,1,0,0,0
+76,77,Y Tu Mamá También,2001,18+,7.6,92%,1,0,0,0
+77,78,The Naked Gun: From the Files of Police Squad!,1988,13+,7.6,87%,1,0,0,0
+78,79,Mud,2013,13+,7.4,97%,1,0,0,0
+79,80,The Edge of Seventeen,2016,18+,7.3,94%,1,0,0,0
+80,81,Philadelphia,1993,13+,7.7,80%,1,0,0,0
+81,82,Lagaan: Once Upon a Time in India,2001,7+,8.1,95%,1,0,0,0
+82,83,Tucker and Dale vs. Evil,2010,18+,7.5,85%,1,0,0,0
+83,84,The Matrix Reloaded,2003,18+,7.2,73%,1,0,0,0
+84,85,The Two Popes,2019,13+,7.6,89%,1,0,0,0
+85,86,The Last Samurai,2003,18+,7.7,66%,1,0,0,0
+86,87,The Florida Project,2017,18+,7.6,96%,1,0,0,0
+87,88,13th,2016,18+,8.2,96%,1,0,0,0
+88,89,Bahubali: The Beginning,2015,13+,8.1,88%,1,0,0,0
+89,90,The Dawn Wall,2018,,8.1,100%,1,0,0,0
+90,91,Dolemite Is My Name,2019,18+,7.3,97%,1,0,0,0
+91,92,Tarzan,1999,all,7.3,89%,1,0,0,0
+92,93,The Platform,2019,18+,7,82%,1,0,0,0
+93,94,Okja,2017,13+,7.3,87%,1,0,0,0
+94,95,Roma,2018,18+,7.7,96%,1,0,0,0
+95,96,Saving Mr. Banks,2013,13+,7.5,79%,1,0,0,1
+96,97,Icarus,2017,18+,7.9,93%,1,0,0,0
+97,98,Jiro Dreams of Sushi,2011,7+,7.9,99%,1,1,0,0
+98,99,Corpse Bride,2005,7+,7.3,84%,1,0,0,0
+99,100,Jerry Maguire,1996,18+,7.3,83%,1,0,0,0
+100,101,The Death of Stalin,2017,18+,7.2,96%,1,0,0,0
+101,102,GoldenEye,1995,13+,7.2,78%,1,0,0,0
+102,103,The Boy in the Striped Pyjamas,2008,13+,7.8,63%,1,0,0,0
+103,104,Amy,2015,18+,7.8,95%,1,0,1,1
+104,105,Ralph Breaks the Internet,2018,7+,7.1,88%,1,0,0,0
+105,106,Good Time,2017,18+,7.4,92%,1,0,0,0
+106,107,Ip Man 2,2010,18+,7.5,96%,1,0,0,0
+107,108,The Little Prince,2015,7+,7.7,93%,1,0,0,0
+108,109,The Spectacular Now,2013,18+,7.1,91%,1,0,0,0
+109,110,Baahubali 2: The Conclusion,2017,7+,8.2,89%,1,0,0,0
+110,111,Black Mirror: Bandersnatch,2018,,7.2,92%,1,0,0,0
+111,112,PK,2014,13+,8.1,76%,1,0,0,0
+112,113,Extraction,2020,18+,6.8,68%,1,0,0,0
+113,114,The Lobster,2015,18+,7.2,87%,1,0,0,0
+114,115,Blue Valentine,2010,18+,7.4,87%,1,0,0,0
+115,116,Zindagi Na Milegi Dobara,2011,7+,8.1,91%,1,0,0,0
+116,117,Green Room,2015,18+,7,91%,1,0,0,0
+117,118,Kung Fu Panda 2,2011,7+,7.2,81%,1,0,0,0
+118,119,The Ballad of Buster Scruggs,2018,18+,7.3,91%,1,0,0,0
+119,120,Cloverfield,2008,13+,7,77%,1,0,0,0
+120,121,Burning,2018,18+,7.5,95%,1,0,0,0
+121,122,The Adventures of Tintin,2011,7+,7.3,74%,1,0,0,0
+122,123,Bolt,2008,7+,6.8,89%,1,0,0,1
+123,124,Neon Genesis Evangelion: The End of Evangelion,1997,,8.1,88%,1,0,0,0
+124,125,Chasing Amy,1997,18+,7.2,87%,1,0,0,0
+125,126,The Princess and the Frog,2009,all,7.1,85%,1,0,0,1
+126,127,Bad Genius,2017,13+,7.6,100%,1,0,0,0
+127,128,The Wicker Man,1973,18+,7.5,89%,1,0,0,0
+128,129,A Single Man,2009,18+,7.6,85%,1,0,0,0
+129,130,Blow,2001,18+,7.6,55%,1,0,0,0
+130,131,The Squid and the Whale,2005,18+,7.3,92%,1,0,1,0
+131,132,My Life as a Zucchini,2016,13+,7.8,99%,1,0,0,0
